@@ -14,6 +14,8 @@ use the discord OAUTH manager to invite the bot to your server
 
 # To-Do:
 1) Remove the need for / separators
+2) create a help menu
+3) maybe add native discord /commands integration
 
 # Known Bugs:
 1)Random glitches due to incorrect template names
