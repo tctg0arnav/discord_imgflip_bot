@@ -1,7 +1,7 @@
 # discord_imgflip_bot
 A simple imgflip meme generator bot.
 
-#how to use
+# how to use
 !imgflip /{meme_template_name}/{text0}/{text1}/....../{textn}
 #to host your own
 run the python script. set your env variables as follows:
@@ -12,8 +12,8 @@ password={imgflip_password}
 
 use the discord OAUTH manager to invite the bot to your server
 
-#To-Do:
+# To-Do:
 1) Remove the need for / separators
 
-#Known Bugs:
+# Known Bugs:
 1)Random glitches due to incorrect template names
