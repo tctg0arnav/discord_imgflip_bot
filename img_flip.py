@@ -71,6 +71,9 @@ async def on_ready():
 async def on_message(message):
     if message.author == client.user:
         return
+    if message.content == "!imgflip help":
+      await message.channel.send("Usage- !imgflip /{template name}/{text-top}/{text-bottom}")
+      
     if message.content.startswith('!imgflip'):
         input = message.content.split('/')[1:]
         print(input)
