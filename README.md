@@ -1,5 +1,6 @@
 # discord_imgflip_bot
 A simple imgflip meme generator bot.
+Invite - https://arnavshukla.co/imgflip
 
 # how to use
 !imgflip /{meme_template_name}/{text0}/{text1}/....../{textn}
